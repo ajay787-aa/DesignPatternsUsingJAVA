@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BuilderDesignPattern/BuilderDesignPattern.iml" filepath="$PROJECT_DIR$/BuilderDesignPattern/BuilderDesignPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DecoratorDesignPattern/DecoratorDesignPattern.iml" filepath="$PROJECT_DIR$/DecoratorDesignPattern/DecoratorDesignPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/DesignPatterns.iml" filepath="$PROJECT_DIR$/.idea/DesignPatterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ObserverDesignPattern/ObserverDesignPattern.iml" filepath="$PROJECT_DIR$/ObserverDesignPattern/ObserverDesignPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SingeltonDesignPattern/SingeltonDesignPattern.iml" filepath="$PROJECT_DIR$/SingeltonDesignPattern/SingeltonDesignPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StateDesignPattern/StateDesignPattern.iml" filepath="$PROJECT_DIR$/StateDesignPattern/StateDesignPattern.iml" />
+    </modules>
+  </component>
+</project>
